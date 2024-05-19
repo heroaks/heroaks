@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project for malware detection in IoT devices<br>🌱 I’m currently learning Unity for game development <br>
+🌱 Currently learning Unity for game development <br>
 
 
 ## 🌐 Socials:
